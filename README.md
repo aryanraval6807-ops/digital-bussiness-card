@@ -1,6 +1,6 @@
 # Digital Business Card using CSS Box Model
 
-**Name on card:** Dhairya Darji (Web Developer)
+**Name on card:** Aryan Raval (Web Developer)
 **Brand:** CodeNest Studio
 
 A mini web project that shows a professional digital business card built with the CSS Box Model
